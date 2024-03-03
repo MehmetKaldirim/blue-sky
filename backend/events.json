@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"al sana bir tane daha ","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","date":"2024-03-03","description":"burda tek önemli olan sevgi","id":"8b5afceb-27e7-4260-a4ee-7b3bb0573416"},{"title":"A new event","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"pasanintorunlari@gmail.com","password":"$2a$12$EtBD3qm9GZKsRlKchJn83Op/tiitJhfb2S.8wTN073hFhH1djBeC6","id":"3e9c5f05-3a92-47d5-86e4-8a0027728237"},{"email":"test1@test.com","password":"$2a$12$Asv01Se18QI0WTLc2Dhg2e0rkOBAnFgYlSpoL1IyZo.G9jrIUKc/a","id":"4a8c4513-5e39-4eea-87d3-9387257ac74b"}]}
